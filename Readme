@@ -1,0 +1,16 @@
+1=> download the files in local machine
+2=>then run the below commands
+3=>open the clinet folder using 
+   in windows and MACOS/linux
+ ## cd client and cd server (using split terminal/ in individual terminal)
+
+   in windows
+ ## npm start 
+
+   in MACos
+ ## yarn start 
+
+run the above commands in both server and client 
+
+and also cross check the private keys which configured using dotenv in server side files.
+install the respective dependecies to get output without errors
